@@ -17,3 +17,10 @@ Thumbs.db
 
 # Testing
 .pytest_cache/
+
+# Allure
+allure-results/
+allure-report/
+
+# Local packages
+lib/
