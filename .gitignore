@@ -10,7 +10,7 @@ env/
 # IDE
 .vscode/
 .idea/
-
+.trae/
 # OS
 Thumbs.db
 .DS_Store
